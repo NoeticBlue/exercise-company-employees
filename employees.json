@@ -1,0 +1,254 @@
+{
+  "records": [
+    {
+      "user": {
+        "name": "Marta Berge",
+        "email": "Laurel_Wiza@yahoo.com",
+        "title": "International Program Designer",
+        "department": "Engineering"
+      },
+      "status": "active",
+      "role": "owner"
+    },
+    {
+      "user": {
+        "name": "Cindy Bins DDS",
+        "email": "Julianne17@hotmail.com",
+        "title": "Investor Assurance Producer",
+        "department": "Engineering"
+      },
+      "status": "active",
+      "role": "owner"
+    },
+    {
+      "user": {
+        "name": "Bernard Durgan",
+        "email": "Harmon_Marquardt@hotmail.com",
+        "title": "Human Configuration Producer",
+        "department": "Human Resources"
+      },
+      "status": "inactive",
+      "role": "member"
+    },
+    {
+      "user": {
+        "name": "Laura Wolf",
+        "email": "Laura73@gmail.com",
+        "title": "Customer Intranet Director",
+        "department": "Management"
+      },
+      "status": "active",
+      "role": "member"
+    },
+    {
+      "user": {
+        "name": "Meghan Homenick",
+        "email": "Victor_Will21@yahoo.com",
+        "title": "Senior Optimization Consultant",
+        "department": "Management"
+      },
+      "status": "inactive",
+      "role": "admin"
+    },
+    {
+      "user": {
+        "name": "Marvin Hammes",
+        "email": "Shanny_Mills@yahoo.com",
+        "title": "Dynamic Identity Architect",
+        "department": "Human Resources"
+      },
+      "status": "active",
+      "role": "owner"
+    },
+    {
+      "user": {
+        "name": "Warren Hickle",
+        "email": "Elvera35@gmail.com",
+        "title": "Customer Interactions Engineer",
+        "department": "Engineering"
+      },
+      "status": "active",
+      "role": "owner"
+    },
+    {
+      "user": {
+        "name": "Moses Gutkowski",
+        "email": "Dina_Schulist@yahoo.com",
+        "title": "Central Data Consultant",
+        "department": "Engineering"
+      },
+      "status": "inactive",
+      "role": "owner"
+    },
+    {
+      "user": {
+        "name": "Leland Goldner",
+        "email": "Callie_Yost@gmail.com",
+        "title": "Senior Infrastructure Orchestrator",
+        "department": "Human Resources"
+      },
+      "status": "inactive",
+      "role": "admin"
+    },
+    {
+      "user": {
+        "name": "Lynn Parisian",
+        "email": "Krystina14@gmail.com",
+        "title": "International Implementation Engineer",
+        "department": "Human Resources"
+      },
+      "status": "active",
+      "role": "member"
+    },
+    {
+      "user": {
+        "name": "Dustin Kassulke",
+        "email": "Ena_Ortiz@hotmail.com",
+        "title": "Investor Web Designer",
+        "department": "Human Resources"
+      },
+      "status": "inactive",
+      "role": "owner"
+    },
+    {
+      "user": {
+        "name": "Mildred Murphy",
+        "email": "Royal38@hotmail.com",
+        "title": "Legacy Web Orchestrator",
+        "department": "Human Resources"
+      },
+      "status": "inactive",
+      "role": "owner"
+    },
+    {
+      "user": {
+        "name": "Lisa Oberbrunner",
+        "email": "Wilfrid.Hansen@yahoo.com",
+        "title": "Senior Quality Architect",
+        "department": "Engineering"
+      },
+      "status": "inactive",
+      "role": "admin"
+    },
+    {
+      "user": {
+        "name": "Connie Wiegand",
+        "email": "Onie.Stanton@yahoo.com",
+        "title": "National Accountability Supervisor",
+        "department": "Engineering"
+      },
+      "status": "inactive",
+      "role": "member"
+    },
+    {
+      "user": {
+        "name": "Tasha Leffler",
+        "email": "Edna.Leannon@hotmail.com",
+        "title": "Legacy Mobility Facilitator",
+        "department": "Engineering"
+      },
+      "status": "active",
+      "role": "member"
+    },
+    {
+      "user": {
+        "name": "Miss Robin Medhurst",
+        "email": "Marquise37@hotmail.com",
+        "title": "Dynamic Identity Technician",
+        "department": "Engineering"
+      },
+      "status": "inactive",
+      "role": "admin"
+    },
+    {
+      "user": {
+        "name": "Laura Harber",
+        "email": "Javier.OKeefe@yahoo.com",
+        "title": "Corporate Quality Manager",
+        "department": "Engineering"
+      },
+      "status": "active",
+      "role": "admin"
+    },
+    {
+      "user": {
+        "name": "Kevin Mueller",
+        "email": "Trudie_Sawayn31@gmail.com",
+        "title": "Investor Identity Representative",
+        "department": "Management"
+      },
+      "status": "inactive",
+      "role": "admin"
+    },
+    {
+      "user": {
+        "name": "Fernando Weimann",
+        "email": "Rowena.Murazik@yahoo.com",
+        "title": "International Quality Specialist",
+        "department": "Management"
+      },
+      "status": "inactive",
+      "role": "member"
+    },
+    {
+      "user": {
+        "name": "Tricia Turcotte",
+        "email": "Deion.Beahan28@gmail.com",
+        "title": "National Interactions Representative",
+        "department": "Management"
+      },
+      "status": "active",
+      "role": "admin"
+    },
+    {
+      "user": {
+        "name": "Tomas Casper",
+        "email": "Elisabeth49@hotmail.com",
+        "title": "Human Factors Designer",
+        "department": "Human Resources"
+      },
+      "status": "active",
+      "role": "owner"
+    },
+    {
+      "user": {
+        "name": "Jorge Lubowitz",
+        "email": "Baylee6@yahoo.com",
+        "title": "Dynamic Tactics Administrator",
+        "department": "Human Resources"
+      },
+      "status": "inactive",
+      "role": "member"
+    },
+    {
+      "user": {
+        "name": "Debra Stark",
+        "email": "Vergie.Leuschke@yahoo.com",
+        "title": "National Infrastructure Developer",
+        "department": "Human Resources"
+      },
+      "status": "inactive",
+      "role": "owner"
+    },
+    {
+      "user": {
+        "name": "Mike Gorczany",
+        "email": "Shannon56@yahoo.com",
+        "title": "Direct Paradigm Strategist",
+        "department": "Human Resources"
+      },
+      "status": "inactive",
+      "role": "member"
+    },
+    {
+      "user": {
+        "name": "Dr. Danny Herman",
+        "email": "Devyn_Deckow39@yahoo.com",
+        "title": "Legacy Communications Officer",
+        "department": "Human Resources"
+      },
+      "status": "inactive",
+      "role": "admin"
+    }
+  ]
+}
